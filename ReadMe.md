@@ -100,7 +100,7 @@ For Android
 
     platform=android br_lc=kayak:en_US npm run wdio
 
-For Different Brand/Locale combination
+For iOS 
 
     platform=ios br_lc=momondo:da_DK npm run wdio
 
