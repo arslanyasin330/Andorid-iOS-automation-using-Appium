@@ -2,9 +2,9 @@
 Follow steps below to setup iOS Real device(iPhone/iPad) automation,
 
 - Open Xcode, go to Preferences -> Accounts
-  - Add account in Xcode (Kayak Developer Account)
+  - Add account in Xcode (Developer Account)
     * iOS Dev - needs to change status of specific account as developer
-- Select Kayak Software Corp then Click on Manage Certificate
+- Select  Software Corp then Click on Manage Certificate
     * Click plus button and select "Apple Development" option, tap on Done
 - Load Terminal and type following command to open WebDriverProject in Xcode
 `open /usr/local/lib/node_modules/appium/node_modules/appium-webdriveragent/WebDriverAgent.xcodeproj`
@@ -12,7 +12,7 @@ Follow steps below to setup iOS Real device(iPhone/iPad) automation,
     * From Targets section select IntegrationApp. If "Target' section is not visible, click on "Show Project and target list icon" from top left
     * Click on Signing & Capabilities tab
     * Check Automatically manage signing option
-    * Click Team & select Kayak Software Corp option
+    * Click Team & select  Software Corp option
     * Press Command + b  to build the project
     * Once project builds close the xCode
 - Connect a device with your machine & type this command in terminal
