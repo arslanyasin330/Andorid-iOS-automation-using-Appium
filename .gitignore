@@ -1,0 +1,10 @@
+node_modules
+# pycharm
+.idea
+
+# VSCode
+node_modules/
+.Ds_store
+.DS_Store
+.DS_Store/
+package-lock.json
